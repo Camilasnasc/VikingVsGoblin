@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Plataforma
+comment0.text=\r\n\ A\ classe\ que\ representa\ as\ plataformas.\r\n\ Gera\ as\ plataformas\ que\ servem\ como\ ch\u00E3o\ e\ obstaculo\ para\ o\ viking\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0.\r\n
+comment1.params=x\ y
+comment1.target=Plataforma(int,\ int)
+comment1.text=\r\n\ Construtor\ da\ classe\ Plataforma.\r\n\ Inicializa\ os\ atributos\ da\ classe\ e\ define\ a\ escala\ da\ plataforma.\r\n\ @param\ x\ a\ altura\ da\ plataforma.\r\n\ @param\ y\ a\ largura\ da\ plataforma.\r\n
+comment2.params=x
+comment2.target=Plataforma(int)
+comment2.text=\r\n\ Construtor\ da\ classe\ Plataforma.\r\n\ Inicializa\ os\ atributos\ da\ classe\ e\ define\ a\ altura\ da\ plataforma.\r\n\ @param\ x\ a\ altura\ da\ plataforma.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Plataforma\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

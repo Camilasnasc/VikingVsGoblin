@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Classe\ que\ representa\ os\ itens\ coletaveis\ do\ jogo.\r\n\ Lida\ com\ a\ distancia\ que\ o\ viking\ esta\ do\ item\ e\ se\ ele\ encostou.\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=viking
+comment1.target=Item(Viking)
+comment1.text=\r\n\ Construtor\ da\ classe\ Item.\r\n\ @param\ viking\ O\ viking\ que\ vai\ pegar\ os\ itens.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Item\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=boolean\ encostouNoViking()
+comment3.text=\r\n\ Verifica\ se\ o\ viking\ encostou\ no\ item.\r\n\ @return\ true\ se\ o\ viking\ enconstou\ e\ false\ caso\ contrario\r\n
+comment4.params=distanciaMaxima
+comment4.target=boolean\ vikingEstaPerto(int)
+comment4.text=\r\n\ Verifica\ se\ o\ viking\ esta\ proximo\ a\ certo\ numero\ de\ pixels\r\n\ \r\n\ @param\ distanciaMaxima\ o\ numero\ de\ pixels\ que\ o\ viking\ precisa\r\n\ estar\ para\ retornar\ true.\r\n\ \r\n\ @return\ true\ se\ o\ viking\ estiver\ dentro\ da\ distancia\ passada\ e\ false\r\n\ caso\ contrario.\r\n
+comment5.params=
+comment5.target=Viking\ obterViking()
+comment5.text=\r\n\ Retorna\ o\ viking;\r\n
+numComments=6

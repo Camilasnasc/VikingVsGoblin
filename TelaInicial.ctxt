@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TelaInicial
+comment0.text=\r\n\ Representa\ a\ tela\ de\ menu\ principal\ do\ jogo.\r\n\ Esta\ classe\ configura\ o\ cen\u00E1rio\ de\ fundo\ e\ posiciona\ os\ bot\u00F5es\ de\ intera\u00E7\u00E3o\r\n\ (Iniciar\ e\ Instru\u00E7\u00E3o)\ para\ que\ o\ jogador\ possa\ navegar\ pelo\ jogo.\r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=TelaInicial()
+comment1.text=\r\n\ Construtor\ da\ classe\ TelaInicial.\r\n\ Inicializa\ o\ mundo,\ carrega\ e\ ajusta\ a\ imagem\ de\ fundo\ e\ adiciona\r\n\ os\ bot\u00F5es\ de\ menu\ nas\ posi\u00E7\u00F5es\ especificadas.\r\n
+numComments=2

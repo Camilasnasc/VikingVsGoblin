@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GoblinMini
+comment0.text=\r\n\ Classe\ GoblinMini\ (Inimigo).\r\n\ Representa\ um\ tipo\ espec\u00EDfico\ de\ Goblin\ menor.\r\n\ *\ @author\ (seu\ nome)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GoblinMini()
+comment1.text=\r\n\ Construtor\ da\ classe\ GoblinMini.\r\n\ Inicializa\ os\ atributos\ e\ vetores\ de\ imagem.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ L\u00F3gica\ principal\ executada\ a\ cada\ frame.\r\n
+comment3.params=
+comment3.target=void\ atualizarImagemParado()
+comment3.text=\r\n\ Controla\ a\ anima\u00E7\u00E3o\ de\ "Idle"\ (Parado/Andando).\r\n
+comment4.params=
+comment4.target=void\ atacarAutomatico()
+comment4.text=\r\n\ Ataque\ autom\u00E1tico.\r\n\ Passa\ 'null'\ para\ a\ direita\ e\ o\ vetor\ existente\ para\ a\ esquerda.\r\n
+comment5.params=atacarDireita\ atacarEsquerda
+comment5.target=void\ animarAtaque(greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[])
+comment5.text=\r\n\ Anima\u00E7\u00E3o\ do\ ataque.\r\n\ Passa\ 'null'\ para\ a\ direita\ e\ o\ vetor\ existente\ para\ a\ esquerda.\r\n
+comment6.params=
+comment6.target=void\ inicializarVetores()
+comment6.text=\r\n\ Carrega\ as\ imagens.\r\n\ As\ inicializa\u00E7\u00F5es\ dos\ vetores\ da\ DIREITA\ foram\ removidas.\r\n
+numComments=7

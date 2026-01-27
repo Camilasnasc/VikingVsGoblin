@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Botao
+comment0.text=\r\n\ Classe\ base\ para\ os\ bot\u00F5es\ da\ interface\ do\ jogo.\r\n\ Respons\u00E1vel\ por\ gerar\ a\ apar\u00EAncia\ visual\ (forma\ arredondada,\ cores\ e\ texto)\r\n\ e\ servir\ de\ molde\ para\ bot\u00F5es\ espec\u00EDficos\ atrav\u00E9s\ de\ heran\u00E7a.\r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=texto
+comment1.target=Botao(java.lang.String)
+comment1.text=\r\n\ Construtor\ da\ classe\ Botao.\r\n\ Recebe\ o\ texto\ desejado\ e\ chama\ o\ m\u00E9todo\ auxiliar\ para\ gerar\ e\ definir\r\n\ a\ imagem\ do\ ator.\r\n\ @param\ texto\ A\ String\ que\ ser\u00E1\ escrita\ no\ centro\ do\ bot\u00E3o.\r\n
+comment2.params=texto
+comment2.target=greenfoot.GreenfootImage\ criarImagemBotao(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ auxiliar\ que\ constr\u00F3i\ a\ parte\ visual\ do\ bot\u00E3o.\r\n\ Cria\ uma\ imagem,\ desenha\ o\ fundo\ arredondado,\ a\ borda\ e\ centraliza\ o\ texto.\r\n\ @param\ texto\ O\ r\u00F3tulo\ do\ bot\u00E3o.\r\n\ @return\ GreenfootImage\ A\ imagem\ finalizada\ pronta\ para\ uso.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ L\u00F3gica\ de\ execu\u00E7\u00E3o\ do\ bot\u00E3o.\r\n\ Detecta\ o\ clique\ do\ mouse,\ mas\ n\u00E3o\ executa\ a\u00E7\u00E3o.\r\n\ Este\ m\u00E9todo\ foi\ deixado\ intencionalmente\ vazio\ para\ ser\ sobrescrito\ (@Override)\r\n\ pelas\ subclasses\ (ex\:\ BotaoIniciar,\ BotaoSair)\ com\ suas\ a\u00E7\u00F5es\ espec\u00EDficas.\r\n
+numComments=4

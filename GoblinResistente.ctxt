@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GoblinResistente
+comment0.text=\r\n\ A\ classe\ GoblinResistente\ cria\ um\ goblin\ com\ mais\ vida,\ porem\ menos\ dano.\r\n\ GoblinResistente\ \u00E9\ um\ dos\ inimigos\ que\ o\ viking\ precisa\ matar\ para\ liberar\ o\ portal.\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=GoblinResistente()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ atacarAutomaticoResistente()
+comment3.text=\r\n\ Ataca\ automaticamente\ quando\ o\ viking\ esta\ dentro\ do\ range(50\ pixels).\r\n
+comment4.params=
+comment4.target=void\ animarMovimento()
+comment4.text=\r\n\ Lida\ com\ a\ movimenta\u00E7\u00E3o\ do\ GoblinResistente.\r\n
+comment5.params=atacar_direita\ atacando_esquerda
+comment5.target=void\ animarAtaque(greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[])
+comment5.text=\r\n\ Lida\ com\ a\ anima\u00E7\u00E3o\ de\ ataque.\r\n\ @param\ atacar_direita\ O\ vetor\ de\ imagens\ do\ goblin\ atacando\ a\ direita\r\n\ @param\ atacar_esquerda\ O\ vetor\ de\ imagens\ do\ goblin\ atacando\ a\ esquerda\r\n\ Sobrescrito\ para\ evitar\ conflito\ de\ atributos(classe\ pai\ e\ filho).\r\n
+comment6.params=
+comment6.target=void\ inicializarVetores()
+comment6.text=\r\n\ Inicializa\ os\ vetores\ de\ imagens.\r\n
+numComments=7

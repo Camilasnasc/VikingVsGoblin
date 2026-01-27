@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Relogio
+comment0.text=\r\n\ A\ classe\ Relogio\ \u00E9\ respons\u00E1vel\ por\ gerenciar\ o\ cron\u00F4metro\ do\ jogo.\r\n\ Ela\ utiliza\ o\ tempo\ do\ sistema\ para\ calcular\ o\ tempo\ decorrido\r\n\ e\ format\u00E1-lo\ em\ minutos\ e\ segundos\ para\ exibi\u00E7\u00E3o\ na\ interface.\r\n\ *\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Relogio()
+comment2.params=
+comment2.target=void\ zerar()
+comment2.text=\r\n\ Reseta\ o\ tempo\ inicial\ para\ o\ momento\ atual\ (agora).\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTempo()
+comment3.text=\r\n\ Retorna\ o\ tempo\ formatado\ (Ex\:\ "02\ minutos\ e\ 15\ segundos")\r\n
+numComments=4

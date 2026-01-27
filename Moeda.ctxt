@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Moeda
+comment0.text=\r\n\ Representa\ o\ item\ "Moeda"\ dentro\ do\ jogo.\r\n\ Este\ objeto\ \u00E9\ colet\u00E1vel\:\ ao\ ser\ tocado\ pelo\ Viking,\ incrementa\ a\ pontua\u00E7\u00E3o\r\n\ e\ desaparece\ do\ mundo.\r\n\ *\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=viking
+comment1.target=Moeda(Viking)
+comment1.text=\r\n\ Construtor\ da\ classe\ Moeda.\r\n\ Inicializa\ o\ item,\ carrega\ a\ imagem\ "moeda.png",\ redimensiona\ para\ \r\n\ o\ tamanho\ adequado\ e\ define\ a\ imagem\ do\ ator.\r\n\ *\ @param\ viking\ Refer\u00EAncia\ ao\ objeto\ Viking\ (o\ jogador)\ passada\ para\ a\ superclasse\ Item.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ *\ Verifica\ se\ houve\ colis\u00E3o\ com\ o\ Viking.\ Se\ sim,\ adiciona\ pontos\ e\r\n\ remove\ a\ moeda\ do\ jogo.\r\n
+numComments=3

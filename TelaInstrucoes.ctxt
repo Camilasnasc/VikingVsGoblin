@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TelaInstrucoes
+comment0.text=\r\n\ Representa\ a\ tela\ de\ instru\u00E7\u00F5es\ do\ jogo.\r\n\ Esta\ classe\ \u00E9\ respons\u00E1vel\ por\ exibir\ as\ regras\ e\ comandos\ para\ o\ jogador,\r\n\ permitindo\ o\ retorno\ ao\ menu\ principal\ atrav\u00E9s\ do\ bot\u00E3o\ de\ voltar.\r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=TelaInstrucoes()
+numComments=2

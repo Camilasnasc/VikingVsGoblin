@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GoblinBoss
+comment0.text=\r\n\ Metodo\ que\ lida\ com\ a\ movimenta\u00E7\u00E3o\ e\ ataque\ do\ GoblinBoss.\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=GoblinBoss()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ GoblinBoss\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ inicializarVetoresDeImagem()
+comment3.text=\r\n\ Inicializa\ os\ vetores\ de\ imagens.\r\n
+comment4.params=
+comment4.target=void\ moverAutomaticamente()
+comment4.text=\r\n\ Move\ automaticamente,\ quando\ chega\ a\ borda\ ele\ vira\ para\ a\ outra\ dire\u00E7\u00E3o.\r\n
+comment5.params=
+comment5.target=void\ parado()
+comment5.text=\r\n\ Metodo\ que\ controla\ as\ variaveis\ de\ controle\ e\ chama\ a\ anima\u00E7\u00E3o\ com\ o\ dano,\r\n
+comment6.params=atacarDireita\ atacarEsquerda
+comment6.target=void\ atacarAutomatico(greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[])
+comment6.text=\r\n\ Metodo\ que\ lida\ com\ o\ dano\ causado\ ao\ viking\ e\ roda\ a\ anima\u00E7\u00E3o\ de\ ataque.\r\n\ Foi\ sobrescrito\ pq\ o\ range\ do\ goblin\ normal\ era\ curto,\ esse\ boss\ \u00E9\ maior,\ ent\r\n\ precisa\ de\ um\ range\ maior.\r\n\ @param\ atacar_direita\ O\ vetor\ de\ imagens\ do\ goblin\ atacando\ a\ direita\r\n\ @param\ atacar_esquerda\ O\ vetor\ de\ imagens\ do\ goblin\ atacando\ a\ esquerda\r\n
+comment7.params=atacar_direita\ atacando_esquerda
+comment7.target=void\ animarAtaqueBoss(greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[])
+comment7.text=\r\n\ Lida\ com\ a\ anima\u00E7\u00E3o\ de\ ataque\ do\ boss.\r\n\ @param\ atacar_direita\ O\ vetor\ de\ imagens\ do\ goblin\ atacando\ a\ direita\r\n\ @param\ atacar_esquerda\ O\ vetor\ de\ imagens\ do\ goblin\ atacando\ a\ esquerda\r\n
+numComments=8

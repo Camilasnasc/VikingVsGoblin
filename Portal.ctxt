@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Portal
+comment0.text=\r\n\ A\ classe\ Portal\ representa\ o\ objeto\ de\ transi\u00E7\u00E3o\ de\ fase\ no\ jogo.\r\n\ Ele\ permanece\ inativo\ at\u00E9\ que\ seja\ "liberado"\ (geralmente\ ap\u00F3s\ derrotar\ todos\ os\ inimigos).\r\n\ O\ jogador\ precisa\ interagir\ com\ ele\ quando\ liberado\ para\ avan\u00E7ar\ para\ a\ pr\u00F3xima\ fase.\r\n\ \r\n\ \ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\ \r\n
+comment1.params=
+comment1.target=Portal()
+comment1.text=\r\n\ Construtor\ da\ classe\ Portal.\r\n\ Carrega\ a\ imagem\ do\ portal\ e\ a\ escala\ para\ o\ tamanho\ desejado.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ O\ m\u00E9todo\ 'act'\ \u00E9\ chamado\ a\ cada\ ciclo\ de\ execu\u00E7\u00E3o\ (frame).\r\n\ Atualmente,\ este\ m\u00E9todo\ n\u00E3o\ executa\ nenhuma\ l\u00F3gica\ de\ movimento\ ou\ intera\u00E7\u00E3o\ pr\u00F3pria.\r\n
+comment3.params=valor
+comment3.target=void\ setLiberado(boolean)
+comment3.text=\r\n\ Define\ o\ estado\ de\ libera\u00E7\u00E3o\ do\ portal.\r\n\ Usado\ pela\ l\u00F3gica\ do\ mundo\ (TratandoMundos)\ para\ ativ\u00E1-lo\ ap\u00F3s\ a\ condi\u00E7\u00E3o\ de\ vit\u00F3ria.\r\n\ *\ @param\ valor\ true\ para\ liberar\ o\ portal,\ false\ para\ mant\u00EA-lo\ bloqueado.\r\n
+comment4.params=
+comment4.target=boolean\ estaLiberado()
+comment4.text=\r\n\ Retorna\ o\ estado\ atual\ de\ libera\u00E7\u00E3o\ do\ portal.\r\n\ Usado\ pelo\ personagem\ principal\ (Viking)\ para\ saber\ se\ pode\ avan\u00E7ar\ de\ fase.\r\n\ *\ @return\ true\ se\ o\ portal\ estiver\ liberado,\ false\ caso\ contr\u00E1rio.\r\n
+numComments=5

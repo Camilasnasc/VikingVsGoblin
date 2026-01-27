@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BarraDeVida
+comment0.text=\r\n\ A\ classe\ BarraDeVida\ \u00E9\ uma\ representa\u00E7\u00E3o\ para\ o\ jogador\ saber\ a\ quantidade\ vida\ que\ seu\ viking\ possui.\r\n\ A\ classe\ lida\ com\ a\ atualiza\u00E7\u00E3o\ da\ vida\ e\ mudan\u00E7a\ dos\ sprites\ da\ BarraDeVida.\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=viking
+comment1.target=BarraDeVida(Viking)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ O\ m\u00E9todo\ 'act'\ \u00E9\ chamado\ a\ cada\ ciclo\ de\ execu\u00E7\u00E3o\ (frame).\r\n\ Sua\ fun\u00E7\u00E3o\ \u00E9\ atualizar\ nessa\ classe\ \u00E9\ fazer\ a\ mudan\u00E7a\ de\ sprite\ da\ barra\ de\ vida\ de\ acordo\ com\r\n\ a\ quantidade\ de\ vida\ atual\ do\ viking.\r\n
+comment3.params=
+comment3.target=void\ ajustarVetorEImagem()
+comment3.text=\r\n\ Insere\ todos\ os\ png\ da\ barra\ de\ vida\ no\ vetor,\ e\ ajusta\ o\ tamanho\ dos\ mesmos.\r\n
+comment4.params=
+comment4.target=void\ ajustarVidaDoViking()
+comment4.text=\r\n\ Obtem\ do\ viking\ sua\ vida\ atual\ para\ alterar\ os\ sprites\ da\ barra\ de\ vida.\r\n
+numComments=5

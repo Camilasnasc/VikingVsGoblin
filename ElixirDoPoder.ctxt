@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ElixirDoPoder
+comment0.text=\r\n\ A\ classe\ ElixirDoPoder,\ que\ \u00E9\ um\ item,\ faz\ com\ que\ o\ dano\ minimo\ e\ maximo\ do\ viking\ \r\n\ seja\ aumentado.\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=viking
+comment1.target=ElixirDoPoder(Viking)
+comment1.text=\r\n\ Construtor\ da\ classe\ ElixirDoPoder.\r\n\ @param\ viking\ O\ viking\ que\ poder\u00E1\ pegar\ esse\ item.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ ElixirDoPoder\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

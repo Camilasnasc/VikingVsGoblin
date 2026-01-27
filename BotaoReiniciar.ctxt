@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BotaoReiniciar
+comment0.text=\r\n\ Representa\ o\ bot\u00E3o\ de\ rein\u00EDcio\ do\ jogo.\r\n\ Este\ bot\u00E3o\ \u00E9\ utilizado\ na\ tela\ final\ para\ permitir\ que\ o\ jogador\ \r\n\ comece\ uma\ nova\ partida,\ retornando\ \u00E0\ Fase\ 1.\r\n\ *\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=BotaoReiniciar()
+comment1.text=\r\n\ Construtor\ da\ classe\ BotaoReiniciar.\r\n\ Inicializa\ o\ bot\u00E3o\ definindo\ o\ texto\ "Reiniciar"\ atrav\u00E9s\ da\ chamada\r\n\ ao\ construtor\ da\ superclasse.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Executa\ a\ l\u00F3gica\ do\ bot\u00E3o\ a\ cada\ frame.\r\n\ Verifica\ se\ o\ bot\u00E3o\ foi\ clicado\ pelo\ usu\u00E1rio\ e,\ em\ caso\ afirmativo,\r\n\ define\ o\ mundo\ ativo\ como\ uma\ nova\ inst\u00E2ncia\ da\ Fase1.\r\n
+numComments=3

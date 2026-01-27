@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fase3
+comment0.text=\r\n\ A\ classe\ Fase3\ representa\ a\ ultima\ fase(mundo)\ do\ jogo.\r\n\ Ela\ herda\ funcionalidades\ de\ gerenciamento\ de\ estado\ e\ som\ da\ superclasse\ Mundo.\r\n\ Esta\ classe\ configura\ um\ cen\u00E1rio\ diferente\ com\ novas\ posi\u00E7\u00F5es\r\n\ de\ plataformas,\ inimigos\ e\ o\ objetivo\ (Portal)\ do\ jogador.\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Fase3()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fase3.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ O\ m\u00E9todo\ 'act'\ \u00E9\ chamado\ a\ cada\ ciclo\ de\ execu\u00E7\u00E3o.\r\n\ Sua\ principal\ fun\u00E7\u00E3o\ \u00E9\ verificar\ se\ o\ jogo\ atingiu\ uma\ condi\u00E7\u00E3o\ de\ vit\u00F3ria\ ou\ derrota,\r\n\ utilizando\ a\ l\u00F3gica\ herdada\ da\ superclasse\ Mundo.\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepara\ o\ mundo\ para\ o\ in\u00EDcio\ do\ programa.\r\n\ Ou\ seja\:\ criar\ os\ objetos\ iniciais\ e\ adicion\u00E1-los\ ao\ mundo.\r\n
+numComments=4

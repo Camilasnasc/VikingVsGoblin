@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BotaoInstrucao
+comment0.text=\r\n\ Representa\ o\ bot\u00E3o\ que\ leva\ \u00E0\ tela\ de\ instru\u00E7\u00F5es.\r\n\ Ao\ ser\ clicado\ pelo\ usu\u00E1rio,\ este\ ator\ altera\ o\ mundo\ atual\ para\ a\ TelaInstrucoes.\r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=BotaoInstrucao()
+comment1.text=\r\n\ Construtor\ da\ classe\ BotaoInstrucao.\r\n\ Define\ o\ texto\ "Instru\u00E7\u00F5es"\ para\ ser\ exibido\ no\ bot\u00E3o\ atrav\u00E9s\r\n\ do\ construtor\ da\ superclasse\ Botao.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Executa\ as\ a\u00E7\u00F5es\ do\ bot\u00E3o\ a\ cada\ ciclo.\r\n\ Verifica\ se\ o\ mouse\ foi\ clicado\ sobre\ este\ objeto.\ Caso\ positivo,\r\n\ instancia\ e\ define\ o\ novo\ mundo\ como\ TelaInstrucoes.\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BotaoIniciar
+comment0.text=\r\n\ Representa\ o\ bot\u00E3o\ que\ Inicia\ a\ fase1\ do\ jogo.\r\n\ Ao\ ser\ clicado\ pelo\ usu\u00E1rio,\ este\ ator\ altera\ o\ mundo\ atual\ para\ a\ Fase1.\r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=BotaoIniciar()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BotaoIniciar\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

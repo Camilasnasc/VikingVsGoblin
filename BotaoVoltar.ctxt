@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BotaoVoltar
+comment0.text=\r\n\ Representa\ o\ bot\u00E3o\ que\ leva\ \u00E0\ tela\ de\ instru\u00E7\u00F5es.\r\n\ Ao\ ser\ clicado\ pelo\ usu\u00E1rio,\ este\ ator\ altera\ o\ mundo\ atual\ para\ a\ TelaInstrucoes.\r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=BotaoVoltar()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Espinho
+comment0.text=\r\n\ A\ classe\ que\ representa\ os\ espinhos.\r\n\ Ele\ verifica\ se\ o\ viking\ esta\ perto,\ se\ estiver,\ mata\ o\ viking.\r\n\ \r\n\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0.\r\n
+comment1.params=viking
+comment1.target=Espinho(Viking)
+comment1.text=\r\n\ Construtor\ da\ classe\ Espinho.\r\n\ Inicializa\ os\ atributos\ da\ classe.\r\n\ @param\ viking\ o\ vking\ que\ receber\u00E1\ hit\ kill.\r\n
+comment2.params=viking\ x\ y
+comment2.target=Espinho(Viking,\ int,\ int)
+comment2.text=\r\n\ Construtor\ da\ classe\ Espinho.\r\n\ Inicializa\ os\ atributos\ da\ classe\ e\ define\ a\ escala\ dos\ espinhos.\r\n\ @param\ viking\ o\ vking\ que\ receber\u00E1\ hit\ kill.\r\n\ @param\ x\ a\ altura\ dos\ espinhos.\r\n\ @param\ y\ a\ largura\ dos\ espinhos.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Verifica\ a\ todo\ freme\ se\ o\ viking\ esta\ a\ uma\ distancia\ menor\ ou\ igual\ 120\ pixels\ de\ distancia.\r\n\ Se\ estiver\ a\ distancia\ for\ igual\ ou\ menor\ a\ 120,\ o\ viking\ recebe\ hit\ kill.\r\n
+comment4.params=
+comment4.target=void\ hitKillViking()
+comment4.text=\r\n\ Altera\ a\ vida\ atual\ do\ viking\ para\ 0.\ Hit\ kill.\r\n
+comment5.params=distancia
+comment5.target=boolean\ vikingEstaPerto(int)
+comment5.text=\r\n\ Verifica\ se\ o\ viking\ esta\ a\ uma\ distancia\ especifica\ de\ pixels\ dos\ espinhos\r\n\ @param\ distancia\ a\ quantidade\ de\ pixels\ que\ vai\ ser\ considerada\ perto\ do\ viking\r\n\ @return\ true\ se\ a\ distancia\ esta\ dentro\ da\ distancia\ desejada\ de\ pixels\ e\ false\ caso\ contr\u00E1rio.\r\n
+numComments=6

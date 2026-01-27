@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fase1
+comment0.text=\r\n\ Fase1\ \u00E9\ o\ mundo\ principal\ da\ Fase\ 1\ do\ jogo.\r\n\ Ele\ herda\ funcionalidades\ de\ gerenciamento\ de\ estado\ e\ som\ da\ superclasse\ TratandoMundos.\r\n\ Esta\ classe\ \u00E9\ respons\u00E1vel\ por\ configurar\ o\ cen\u00E1rio,\ adicionar\ os\ objetos\ iniciais\r\n\ (plataformas,\ inimigos,\ jogador,\ etc.)\ e\ iniciar\ o\ jogo.\r\n\ \r\n\ *\ @author\ Camila\ Santos\ Nascimento,\ Matheus\ Vitor\ da\ Silva\ e\ Jo\u00E3o\ Gabriel\ T\u00F3foli.\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Fase1()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Fase1.\r\n\ Define\ o\ mundo\ inicial\ (TelaInicial),\ configura\ a\ imagem\ de\ fundo,\r\n\ inicia\ a\ m\u00FAsica\ de\ fundo\ e\ chama\ o\ m\u00E9todo\ de\ prepara\u00E7\u00E3o\ dos\ objetos.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ O\ m\u00E9todo\ 'act'\ \u00E9\ chamado\ a\ cada\ ciclo\ de\ execu\u00E7\u00E3o.\r\n\ Gerencia\ a\ l\u00F3gica\ de\ vit\u00F3ria\ ou\ derrota\ do\ jogo,\ chamando\r\n\ um\ m\u00E9todo\ de\ verifica\u00E7\u00E3o\ de\ estado\ herdado\ de\ TratandoMundos.\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepara\ o\ mundo\ para\ o\ in\u00EDcio\ do\ programa\ (Fase\ 1).\r\n\ Cria\ e\ posiciona\ todos\ os\ objetos\ iniciais\ (plataformas,\ inimigos,\ jogador,\ portal\ e\ espinhos)\ no\ mundo.\r\n
+numComments=4
