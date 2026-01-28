@@ -65,8 +65,9 @@ VikingVsGoblin/
 ## ▶️ Como Executar o Projeto
 
 1. Instale o [Greenfoot](https://www.greenfoot.org/download)
+2. Clone este repositório:
 ```
-2. Clone este repositório: git clone https://github.com/Camilasnasc/VikingVsGoblin.git
+git clone https://github.com/Camilasnasc/VikingVsGoblin.git
 ```
 3. Abra o arquivo `project.greenfoot` no Greenfoot
 4. Clique em **Run** para executar o jogo
