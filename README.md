@@ -9,7 +9,8 @@ Projeto criado com fins acadêmicos, aplicando conceitos fundamentais da computa
 
 ## 🎮 Demonstração
 
-![Gameplay do jogo](images/gameplay.gif)
+![Gameplay do jogo](images/gif/gameplay.gif)
+
 
 
 
@@ -53,7 +54,7 @@ VikingVsGoblin/
 ├── VikingVsGoblin/ # Classes Java do jogo
 |       └──images/ # Imagens e sprites
 |       └── sounds/ # Sons do jogo
-├── project.greenfoot
+├── LICENSE
 ├── README.md
 └── .gitignore
 ```
