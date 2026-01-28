@@ -51,9 +51,9 @@ Projeto criado com fins acadêmicos, aplicando conceitos fundamentais da computa
 ```
 VikingVsGoblin/
 │
-├── VikingVsGoblin/ # Classes Java do jogo
-|       └──images/ # Imagens e sprites
-|       └── sounds/ # Sons do jogo
+├── VikingVsGoblin/ # Classes Java e arquivos ctxt
+|       └──images   # Imagens e sprites
+|       └── sounds  # Sons do jogo
 ├── LICENSE
 ├── README.md
 └── .gitignore
