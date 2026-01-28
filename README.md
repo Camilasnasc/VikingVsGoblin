@@ -9,7 +9,7 @@ Projeto criado com fins acadêmicos, aplicando conceitos fundamentais da computa
 
 ## 🎮 Demonstração
 
-![Gameplay do jogo](images/gif/gameplay.gif)
+![Gameplay do jogo](VikingVsGoblin/images/gif/gameplay.gif)
 
 
 
