@@ -83,11 +83,11 @@ VikingVsGoblin/
 ## 👩‍💻 Autores
 
 **Camila Santos Nascimento**  
-**Matheus Vitor da Silva** - 
+**Matheus Vitor da Silva** -  https://github.com/ms-Vitor
 
 Estudantes de Sistemas de Informação, com foco em desenvolvimento de software e aprendizado contínuo em programação.
 
-🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/camila-santos-nascimento-84676a294/))
+🔗 [LinkedIn](https://www.linkedin.com/in/camila-santos-nascimento-84676a294/)
 
 ---
 
